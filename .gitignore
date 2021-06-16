@@ -1,0 +1,9 @@
+bin/*
+bin
+*.jar
+*.class
+target.
+.tmp/
+*.war
+hs_err_pid*
+target/
